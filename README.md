@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @ScratchingHeads
-- 👀 I’m interested in art, ROblox, and other things!
-- 🌱 I’m currently learning coding, and math!
-- 💞️ I’m looking to collaborate on anything really!
-- 📫 How to reach me, ponytown or other places
-- 😄 Pronouns: He/They/It!!
+<img width="800" height="800" alt="2026_10_14_0y8_Kleki" src="https://github.com/user-attachments/assets/df868b12-081e-4492-a77a-99771e89306c" />
 
-<!---
-ScratchingHeads/ScratchingHeads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img width="1280" height="150" alt="image" src="https://github.com/user-attachments/assets/6cccdb78-10f9-4283-b2d2-72b90f42e6b9" />
+$\color{#8b9c15}{\text{Meanwhile, the world of evil began there already, right in the middle of our house."}}$
