@@ -2,4 +2,4 @@
 
 
 <img width="1280" height="150" alt="image" src="https://github.com/user-attachments/assets/6cccdb78-10f9-4283-b2d2-72b90f42e6b9" />
-$\color{#8b9c15}{\text{Meanwhile, the world of evil began there already, right in the middle of our house."}}$
+Meanwhile, the world of evil began there already, right in the middle of our house."
